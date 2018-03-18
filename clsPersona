@@ -1,0 +1,9 @@
+public class Persona
+
+public Property Nombre as string
+end property
+
+public Property Nombre as string
+end property
+
+End Class
